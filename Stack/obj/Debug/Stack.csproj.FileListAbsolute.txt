@@ -1,0 +1,1 @@
+C:\Pratap\Learn\ImplementDataStructureInC#\ImplementDataStructureInCSharp\Stack\bin\Debug\Stack.exe.config
